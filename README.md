@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/blackcater/blackcater/main/images/Hi.gif" height="32" />, I'm Nirosh</h1>
 
 <h3 align="center">A creative minded full-stack developer from 🇱🇰</h3>
-<img align="center top" src="https://data.whicdn.com/images/328100812/original.gif" alt="Image" height="200" />
+<img align="center" src="https://data.whicdn.com/images/328100812/original.gif" alt="Image" height="200" />
 
 <h6 align="center">How to reach me: neminda2nirosh@gmail.com</h6>
 
