@@ -7,7 +7,7 @@
   <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="angular" width="20"/>
   <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" width="20"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="js" width="20"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="20"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="20"/><br>
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="20"/>
   <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="20"/>
   <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrate" width="20"/>
