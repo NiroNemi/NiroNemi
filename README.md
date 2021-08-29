@@ -2,8 +2,6 @@
 
 <h3 align="center">A creative minded full-stack developer from 🇱🇰</h3>
 
-<img src="https://tenor.com/bdaTC.gif">
-
 <h6 align="center">How to reach me: neminda2nirosh@gmail.com</h6>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=NiroNemi&label=Profile%20views&color=blue&style=flat" alt="NiroNemi" /> </p>
