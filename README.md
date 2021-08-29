@@ -8,13 +8,16 @@
   <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" width="20"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="js" width="20"/>
   <img src="" alt="" width="20"/>
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="20"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="" width="20"/>
-  <img src="" alt="" width="20"/>
-  <img src="" alt="" width="20"/>
-  <img src="" alt="" width="20"/>
-  <img src="" alt="" width="20"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="20"/>
+
+
+  <img src="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="20"/>
+      <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="20"/>
+  <img src="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="20"/>
+
+  <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrate" width="20"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="ps" width="20"/>
 </div>
-<p align="center">How to reach me: neminda2nirosh@gmail.com</p>
+<h6 align="center">How to reach me: neminda2nirosh@gmail.com</h6>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=NiroNemi&label=Profile%20views&color=blue&style=flat" alt="NiroNemi" /> </p>
