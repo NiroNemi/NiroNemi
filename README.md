@@ -2,7 +2,7 @@
 
 <h3 align="center">A creative minded full-stack developer from 🇱🇰</h3>
 
-  <div class="tenor-gif-embed" data-postid="15494138" data-share-method="host" data-aspect-ratio="4" data-width="100%"><a href="https://tenor.com/view/heartbeat-pulse-life-gif-15494138">Heartbeat Pulse GIF</a>from <a href="https://tenor.com/search/heartbeat-gifs">Heartbeat GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+  <div class="tenor-gif-embed" data-postid="15494138" data-share-method="host" data-aspect-ratio="4" data-width="100%"><a href="https://tenor.com/view/heartbeat-pulse-life-gif-15494138"><a href="https://tenor.com/search/heartbeat-gifs"></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 <h6 align="center">How to reach me: neminda2nirosh@gmail.com</h6>
 
