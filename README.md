@@ -3,10 +3,9 @@
 <h3 align="center">A creative minded full-stack developer from 🇱🇰</h3>
 
 <div align="center">
-  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="angular" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" width="40"/>
-  <img src="https://upload.vectorlogo.zone/logos/javascript-icon.svg" alt="" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="20"/>
+  <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="angular" width="20"/>
+  <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" width="20"/>
   <img src="" alt="" width="40"/>
   <img src="" alt="" width="40"/>
   <img src="" alt="" width="40"/>
