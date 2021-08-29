@@ -2,7 +2,7 @@
 
 <h3 align="center">A creative minded full-stack developer from 🇱🇰</h3>
 
-<iframe src="https://gifer.com/embed/DhuI" width=480 height=287.000 frameBorder="0" allowFullScreen></iframe><p><a href="https://gifer.com">via GIFER</a></p>
+<img src="https://gifer.com/embed/DhuI" width=480 height=287.000 >
 
 <h6 align="center">How to reach me: neminda2nirosh@gmail.com</h6>
 
