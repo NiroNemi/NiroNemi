@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/blackcater/blackcater/main/images/Hi.gif" height="32" />, I'm Nirosh</h1>
+<h1 align="center">Hello! <img src="https://raw.githubusercontent.com/blackcater/blackcater/main/images/Hi.gif" height="32" />, I'm Nirosh</h1>
 
 <h3 align="center">A creative minded full-stack developer from 🇱🇰</h3>
 
